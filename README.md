@@ -3,7 +3,7 @@
 Leverage self-hosted models for programming and system
 administration.
 
-![./demo.png]
+![Demo of command-line interaction](./demo.png)
 
 ## Installation
 
